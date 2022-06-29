@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atishaye-jain)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:atishaye2000@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:atishaye.01614803119@it.mait.ac.in)
-# Hi there! <img src="https://github.com/atishaye/atishaye/blob/594ad0364ff659ccf8fd1887dc56c0db0c4b14aa/wave.gif" width="30px">
+# Hi there! <img src="https://github.com/atishaye/atishaye/blob/594ad0364ff659ccf8fd1887dc56c0db0c4b14aa/wave.gif" width="35">
 I'm Atishaye Jain, an IT undergraduate currently in my penultimate year of study at Maharaja Agrasen Institute of Technology, IPU.
 
 * I am a self-taught enthusiastic Python developer from India
