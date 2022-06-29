@@ -1,4 +1,5 @@
-![Header](https://github.com/atishaye/atishaye/blob/8b571fe91822b0268bfc30175a685b113467c477/Hey.png "Header")
+<img src="https://github.com/atishaye/atishaye/blob/8b571fe91822b0268bfc30175a685b113467c477/Hey.png" alt="Header" width="800"/>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atishaye-jain)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:atishaye2000@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:atishaye.01614803119@it.mait.ac.in)
@@ -11,7 +12,7 @@ I'm Atishaye Jain, an IT undergraduate currently in my penultimate year of study
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=OpenJDK&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
