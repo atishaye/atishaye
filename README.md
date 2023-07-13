@@ -8,7 +8,7 @@ I'm Atishaye Jain, an IT undergraduate currently in my final year of study at Ma
 
 * I am a self-taught enthusiastic Python developer from India
 * Writing code in Python🐍 for over a long time has made me more than familiar with the language, and I'm always eager to explore even more about it.
-* I enjoy gathering, organising and analysing information, working in groups and contributing to project strategies by actively participating in various hackathons.
+* I enjoy gathering, organizing, and analyzing information, working in groups, and contributing to project strategies by actively participating in various hackathons.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -26,10 +26,11 @@ I'm Atishaye Jain, an IT undergraduate currently in my final year of study at Ma
 <a href="https://github.com/atishaye/atishaye">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atishaye&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+<!--
 <a href="https://github.com/atishaye/atishaye">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atishaye&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Atishaye's GitHub Stats" />
 </a>
-
+-->
 
 <!--
 **atishaye/atishaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
